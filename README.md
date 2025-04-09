@@ -35,3 +35,11 @@ __Melhoria 1__, _melhoria 2_
 ### Imagem externa
 
 ![Logo do Git](https://img.icons8.com/color/512/git.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com.br/?hl=pt-BR)
+
+[https://www.google.com.br/?hl=pt-BR](https://www.google.com.br/?hl=pt-BR)
+
+Contribuidor principal: https://github.com/vinioliveira-developer
