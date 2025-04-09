@@ -47,3 +47,11 @@ Contribuidor principal: https://github.com/vinioliveira-developer
 ## Inserindo uma imagem dentro de um link
 
 [![Logo do GitHub](img/icons8-github-48.png)](https://github.com/vinioliveira-developer)
+
+## Código da função soma
+
+```javascript
+fuction soma(a, b) {
+    return a + b;
+}
+```
