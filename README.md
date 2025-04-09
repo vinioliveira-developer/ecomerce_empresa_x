@@ -27,3 +27,11 @@ __Melhoria 1__, _melhoria 2_
     3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+### Inserindo local
+
+![Logo do GitHub](img/icons8-github-48.png)
+
+### Imagem externa
+
+![Logo do Git](https://img.icons8.com/color/512/git.png)
