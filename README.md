@@ -55,3 +55,10 @@ fuction soma(a, b) {
     return a + b;
 }
 ```
+
+## Lista de tarefas a fazer:
+
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos 
+- [ ] Sistema de bônus
+- [ x ] CSS do rodapé
