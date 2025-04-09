@@ -43,3 +43,7 @@ __Melhoria 1__, _melhoria 2_
 [https://www.google.com.br/?hl=pt-BR](https://www.google.com.br/?hl=pt-BR)
 
 Contribuidor principal: https://github.com/vinioliveira-developer
+
+## Inserindo uma imagem dentro de um link
+
+[![Logo do GitHub](img/icons8-github-48.png)](https://github.com/vinioliveira-developer)
